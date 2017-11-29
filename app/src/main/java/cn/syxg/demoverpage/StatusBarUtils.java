@@ -14,7 +14,7 @@ import android.view.WindowManager;
 import android.widget.LinearLayout;
 
 /**
- * Created by zhouwei on 16/10/21.
+ * Created by 大盗Jeremy
  */
 public class StatusBarUtils {
 
