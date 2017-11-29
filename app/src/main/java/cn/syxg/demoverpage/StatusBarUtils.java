@@ -18,6 +18,7 @@ import android.widget.LinearLayout;
  */
 public class StatusBarUtils {
 
+    
 
     public static void setColor(Activity activity, @ColorInt int color, int statusBarAlpha){
         //先设置的全屏模式
